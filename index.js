@@ -1,10 +1,10 @@
 "use strict";
 /*
-	MIT License http://www.opensource.org/licenses/mit-license.php
-	Authors
-		Tobias Koppers @sokra
-		Johannes Ewald @jhnns
-*/
+ MIT License http://www.opensource.org/licenses/mit-license.php
+ Authors
+ Tobias Koppers @sokra
+ Johannes Ewald @jhnns
+ */
 var less = require("less");
 var fs = require("fs");
 var loaderUtils = require("loader-utils");
